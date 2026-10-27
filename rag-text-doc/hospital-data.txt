@@ -1,0 +1,21 @@
+1. Diabetes mellitus: 2 days; ₹51,000.
+2. Hypertension: 1.5 days; ₹38,250.
+3. Coronary artery disease: 2 days; ₹51,000.
+4. Asthma: 1.5 days; ₹38,250.
+5. Chronic obstructive pulmonary disease (COPD): 2 days; ₹51,000.
+6. Chronic kidney disease: 2 days; ₹51,000.
+7. Osteoarthritis: 1.5 days; ₹38,250.
+8. Rheumatoid arthritis: 2 days; ₹51,000.
+9. Alzheimer’s disease: 2.5 days; ₹63,750.
+10. Parkinson’s disease: 2 days; ₹51,000.
+11. Epilepsy: 2 days; ₹51,000.
+12. Migraine: 1.5 days; ₹38,250.
+13. Major depressive disorder: 2 days; ₹51,000.
+14. Generalized anxiety disorder: 1.5 days; ₹38,250.
+15. Breast cancer: 2.5 days; ₹63,750.
+16. Colorectal cancer: 2.5 days; ₹63,750.
+17. Tuberculosis: 2 days; ₹51,000.
+18. HIV/AIDS: 2.5 days; ₹63,750.
+19. Malaria: 2 days; ₹51,000.
+20. Dengue: 1.5 days; ₹38,250.
+Total estimate: 39 working days and ₹9,94,500.

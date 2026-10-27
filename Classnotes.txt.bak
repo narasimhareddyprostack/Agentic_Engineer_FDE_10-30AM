@@ -1,0 +1,17 @@
+Create Virtual Env
+===========================
+python  -m venv myenv
+
+How to activate virtual Environment
+
+>myenv\Scripts\activate.bat
+
+Install required packages
+--------------------------
+pip install streamlit python-dotenv groq
+
+
+https://ollama.com/
+
+
+
